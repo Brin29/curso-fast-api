@@ -1,0 +1,9 @@
+# Ignoring virtual environment
+.venv/
+.venv
+
+__pycache__/
+*.py[cod]
+
+# Ingnoring .env
+.env
